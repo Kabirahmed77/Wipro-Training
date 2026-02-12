@@ -1,0 +1,7 @@
+D:\Day 3\LAB 3\bin\Debug\LAB 3.exe.config
+D:\Day 3\LAB 3\bin\Debug\LAB 3.exe
+D:\Day 3\LAB 3\bin\Debug\LAB 3.pdb
+D:\Day 3\LAB 3\obj\Debug\LAB 3.csproj.AssemblyReference.cache
+D:\Day 3\LAB 3\obj\Debug\LAB 3.csproj.CoreCompileInputs.cache
+D:\Day 3\LAB 3\obj\Debug\LAB 3.exe
+D:\Day 3\LAB 3\obj\Debug\LAB 3.pdb

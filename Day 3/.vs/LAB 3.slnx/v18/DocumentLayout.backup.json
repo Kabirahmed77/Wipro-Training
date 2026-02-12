@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Day 3\\LAB 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|d:\\day 3\\lab 3\\tostringeg1cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|solutionrelative:tostringeg1cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|d:\\day 3\\lab 3\\staticclassex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|solutionrelative:staticclassex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|d:\\day 3\\lab 3\\refkeyword2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|solutionrelative:refkeyword2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|d:\\day 3\\lab 3\\refkeyword1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|solutionrelative:refkeyword1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|d:\\day 3\\lab 3\\quiz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|solutionrelative:quiz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|d:\\day 3\\lab 3\\quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|solutionrelative:quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|d:\\day 3\\lab 3\\paramsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|solutionrelative:paramsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|d:\\day 3\\lab 3\\methodoverloadingex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|solutionrelative:methodoverloadingex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|d:\\day 3\\lab 3\\methodoverloadingex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|solutionrelative:methodoverloadingex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|d:\\day 3\\lab 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C06FA43-6690-44D1-A592-9541FD923776}|LAB 3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToStringEg1cs.cs",
+              "DocumentMoniker": "D:\\Day 3\\LAB 3\\ToStringEg1cs.cs",
+              "RelativeDocumentMoniker": "ToStringEg1cs.cs",
+              "ToolTip": "D:\\Day 3\\LAB 3\\ToStringEg1cs.cs",
+              "RelativeToolTip": "ToStringEg1cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:27:29.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticClassEx.cs",
+              "DocumentMoniker": "D:\\Day 3\\LAB 3\\StaticClassEx.cs",
+              "RelativeDocumentMoniker": "StaticClassEx.cs",
+              "ToolTip": "D:\\Day 3\\LAB 3\\StaticClassEx.cs",
+              "RelativeToolTip": "StaticClassEx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:15:48.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Refkeyword2.cs",
+              "DocumentMoniker": "D:\\Day 3\\LAB 3\\Refkeyword2.cs",
+              "RelativeDocumentMoniker": "Refkeyword2.cs",
+              "ToolTip": "D:\\Day 3\\LAB 3\\Refkeyword2.cs",
+              "RelativeToolTip": "Refkeyword2.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:00:36.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefKeyword1.cs",
+              "DocumentMoniker": "D:\\Day 3\\LAB 3\\RefKeyword1.cs",
+              "RelativeDocumentMoniker": "RefKeyword1.cs",
+              "ToolTip": "D:\\Day 3\\LAB 3\\RefKeyword1.cs",
+              "RelativeToolTip": "RefKeyword1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:43:39.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quiz2.cs",
+              "DocumentMoniker": "D:\\Day 3\\LAB 3\\Quiz2.cs",
+              "RelativeDocumentMoniker": "Quiz2.cs",
+              "ToolTip": "D:\\Day 3\\LAB 3\\Quiz2.cs",
+              "RelativeToolTip": "Quiz2.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:35:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quiz1.cs",
+              "DocumentMoniker": "D:\\Day 3\\LAB 3\\Quiz1.cs",
+              "RelativeDocumentMoniker": "Quiz1.cs",
+              "ToolTip": "D:\\Day 3\\LAB 3\\Quiz1.cs",
+              "RelativeToolTip": "Quiz1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:18:08.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Paramsexample.cs",
+              "DocumentMoniker": "D:\\Day 3\\LAB 3\\Paramsexample.cs",
+              "RelativeDocumentMoniker": "Paramsexample.cs",
+              "ToolTip": "D:\\Day 3\\LAB 3\\Paramsexample.cs",
+              "RelativeToolTip": "Paramsexample.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:07:22.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MethodoverloadingEx2.cs",
+              "DocumentMoniker": "D:\\Day 3\\LAB 3\\MethodoverloadingEx2.cs",
+              "RelativeDocumentMoniker": "MethodoverloadingEx2.cs",
+              "ToolTip": "D:\\Day 3\\LAB 3\\MethodoverloadingEx2.cs",
+              "RelativeToolTip": "MethodoverloadingEx2.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:01:54.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MethodoverloadingEx1.cs",
+              "DocumentMoniker": "D:\\Day 3\\LAB 3\\MethodoverloadingEx1.cs",
+              "RelativeDocumentMoniker": "MethodoverloadingEx1.cs",
+              "ToolTip": "D:\\Day 3\\LAB 3\\MethodoverloadingEx1.cs",
+              "RelativeToolTip": "MethodoverloadingEx1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:31:58.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Day 3\\LAB 3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Day 3\\LAB 3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:29:08.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
