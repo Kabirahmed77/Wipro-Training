@@ -1,0 +1,7 @@
+D:\GIT\Wipro-Training\Day 4\Lab 4\bin\Debug\Lab 4.exe.config
+D:\GIT\Wipro-Training\Day 4\Lab 4\bin\Debug\Lab 4.exe
+D:\GIT\Wipro-Training\Day 4\Lab 4\bin\Debug\Lab 4.pdb
+D:\GIT\Wipro-Training\Day 4\Lab 4\obj\Debug\Lab 4.csproj.AssemblyReference.cache
+D:\GIT\Wipro-Training\Day 4\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+D:\GIT\Wipro-Training\Day 4\Lab 4\obj\Debug\Lab 4.exe
+D:\GIT\Wipro-Training\Day 4\Lab 4\obj\Debug\Lab 4.pdb
