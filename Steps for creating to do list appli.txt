@@ -1,0 +1,20 @@
+Steps for creating to do list application using html,css and js( external js file)
+    1. Create a form with an input field and a submit button.
+    2. Add an event listener to the form that listens for the submit event.
+    3. When the form is submitted, prevent the default behavior and get the value of the input field.
+    4. Create a new list item element and set its text content to the value of the input field.
+    5. Append the new list item to an unordered list element on the page.
+
+/ Steps for creating an external js file and linking it to html file
+// 1. Create a new file with a .js extension (e.g., script.js).
+// 2. Write your JavaScript code in the newly created .js file.
+// 3. In your HTML file, add a <script> tag with the src attribute pointing to the location of your .js file. For example:
+//    <script src="script.js"></script>
+// 4. Make sure to place the <script> tag either in the <head> section or just before the closing </body> tag of your HTML file, depending on when you want the script to be executed.
+
+// Steps for creating JS code for to do list application
+// 1. Select the form element and the unordered list element from the DOM.
+// 2. Add an event listener to the form that listens for the submit event.
+// 3. When the form is submitted, prevent the default behavior and get the value of the input field.
+// 4. Create a new list item element and set its text content to the value of the input field.
+// 5. Append the new list item to the unordered list element on the page.

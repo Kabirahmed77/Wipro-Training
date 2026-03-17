@@ -1,0 +1,44 @@
+/* Apply the modern Inter font */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f1f5f9 !important; /* Soft premium grey */
+}
+
+/* Custom Navy Gradient Navbar */
+.FinCore-nav {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
+
+/* Make inputs look seamless */
+.input-group {
+    border: 1px solid #e2e8f0;
+    transition: all 0.2s ease;
+}
+
+/* Add a glowing blue border when typing */
+.input-group:focus-within {
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.1);
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+/* Add a subtle lift effect when hovering over cards */
+.invoice-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.invoice-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.05) !important;
+}
+
+/* Space out table rows nicely */
+.table > :not(caption) > * > * {
+    padding: 1rem 0.5rem;
+    border-bottom-color: #f1f5f9;
+}
